@@ -8,7 +8,7 @@ _in reverse chronological order_
 
 Title|Location / _Date_|Links
 -----|-----------------|-----
-Container Coding|Midwest PHP / _2015-03-14_|[Joind.in](https://joind.in/talk/view/13087)
+[Container Coding](ContainerCoding-MidwestPHP.pptx) [[pdf](ContainerCoding-MidwestPHP.pdf)]|Midwest PHP / _2015-03-14_|[Joind.in](https://joind.in/talk/view/13087)
 [Code Reviews: The "Secret" to Building Quality Software](CodeReviews-MidwestPHP.pptx) [[pdf](CodeReviews-MidwestPHP.pdf)]|Midwest PHP / _2014-03-15_|[Joind.in](https://joind.in/talk/view/10546)
 [eCommerce Content Management](eCommerceCMS-WebSummit.pptx) [[pdf](eCommerceCMS-WebSummit.pdf)]|php[arch] eCommerce Summit / _2014-01-30_|[Joind.in](https://joind.in/talk/view/10313)
 [Code Reviews: The "Secret" to Building Quality Software](CodeReviews-MadisonPHP.pptx) [[pdf](CodeReviews-MadisonPHP.pdf)]|Madison PHP / _2013-07-18_|[Meetup](http://www.meetup.com/madisonphp/events/125686792/)
