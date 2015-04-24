@@ -8,6 +8,7 @@ _in reverse chronological order_
 
 Title|Location / _Date_|Links
 -----|-----------------|-----
+[Achieving High-Quality Code Standards](CodeStandards-YEG.pptx) [[pdf](CodeStandards-YEG.pdf)]|Edmonton PHP User Group / _2015-04-23_|[Meetup](http://www.meetup.com/yegphp/events/221659335/)
 [Container Coding](ContainerCoding-MidwestPHP.pptx) [[pdf](ContainerCoding-MidwestPHP.pdf)]|Midwest PHP / _2015-03-14_|[Joind.in](https://joind.in/talk/view/13087)
 [Code Reviews: The "Secret" to Building Quality Software](CodeReviews-MidwestPHP.pptx) [[pdf](CodeReviews-MidwestPHP.pdf)]|Midwest PHP / _2014-03-15_|[Joind.in](https://joind.in/talk/view/10546)
 [eCommerce Content Management](eCommerceCMS-WebSummit.pptx) [[pdf](eCommerceCMS-WebSummit.pdf)]|php[arch] eCommerce Summit / _2014-01-30_|[Joind.in](https://joind.in/talk/view/10313)
