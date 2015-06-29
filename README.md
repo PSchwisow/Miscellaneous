@@ -8,6 +8,7 @@ _in reverse chronological order_
 
 Title|Location / _Date_|Links
 -----|-----------------|-----
+[Achieving High-Quality Code Standards](CodeStandards-MadisonPHP.pptx) [[pdf](CodeStandards-MadisonPHP.pdf)]|Madison PHP / _2015-06-25_|[Meetup](http://www.meetup.com/madisonphp/events/221773721/) [Joind.in](https://joind.in/talk/view/14619)
 [Achieving High-Quality Code Standards](CodeStandards-YEG.pptx) [[pdf](CodeStandards-YEG.pdf)]|Edmonton PHP User Group / _2015-04-23_|[Meetup](http://www.meetup.com/yegphp/events/221659335/)
 [Container Coding](ContainerCoding-MidwestPHP.pptx) [[pdf](ContainerCoding-MidwestPHP.pdf)]|Midwest PHP / _2015-03-14_|[Joind.in](https://joind.in/talk/view/13087)
 [Code Reviews: The "Secret" to Building Quality Software](CodeReviews-MidwestPHP.pptx) [[pdf](CodeReviews-MidwestPHP.pdf)]|Midwest PHP / _2014-03-15_|[Joind.in](https://joind.in/talk/view/10546)
