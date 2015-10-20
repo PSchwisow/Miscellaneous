@@ -8,6 +8,7 @@ _in reverse chronological order_
 
 Title|Location / _Date_|Links
 -----|-----------------|-----
+[Conquering Uncomfortable Code Reviews](ConqueringCodeReview-ChiPUG.pptx) [[pdf](ConqueringCodeReview-ChiPUG.pdf)]|Chicago PHP User Group / _2015-10-19_|[Meetup](http://www.meetup.com/Chicago-PHP-User-Group/events/224884629/)
 [Achieving High-Quality Code Standards](CodeStandards-MadisonPHP.pptx) [[pdf](CodeStandards-MadisonPHP.pdf)]|Madison PHP / _2015-06-25_|[Meetup](http://www.meetup.com/madisonphp/events/221773721/) [Joind.in](https://joind.in/talk/view/14619)
 [Achieving High-Quality Code Standards](CodeStandards-YEG.pptx) [[pdf](CodeStandards-YEG.pdf)]|Edmonton PHP User Group / _2015-04-23_|[Meetup](http://www.meetup.com/yegphp/events/221659335/)
 [Container Coding](ContainerCoding-MidwestPHP.pptx) [[pdf](ContainerCoding-MidwestPHP.pdf)]|Midwest PHP / _2015-03-14_|[Joind.in](https://joind.in/talk/view/13087)
