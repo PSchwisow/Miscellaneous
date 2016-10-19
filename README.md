@@ -8,6 +8,8 @@ _in reverse chronological order_
 
 Title|Location / _Date_|Links
 -----|-----------------|-----
+[10 Things You Didn’t Know You Could Do With Composer](10ThingsComposer-ZendCon.pptx) [[pdf](10ThingsComposer-ZendCon.pdf)]|ZendCon / _2016-10-19_|[Joind.in](https://joind.in/talk/fde58)
+[10 Things You Didn’t Know You Could Do With Composer](10ThingsComposer-ZendCon.pptx) [[pdf](10ThingsComposer-ZendCon.pdf)]|Milwaukee PHP / _2016-10-11_|[Meetup](http://www.meetup.com/Milwaukee-PHP-Users-Group/events/234275842/)
 [Beyond Hello World: From Scripting to Software](BeyondHelloWorld-MadisonPHP.pptx) [[pdf](BeyondHelloWorld-MadisonPHP.pdf)]|Madison PHP Conference / _2016-09-30_|[Joind.in](https://joind.in/talk/ee75b)
 [Conquering Uncomfortable Code Reviews](ConqueringCodeReview-MadisonPHP.pptx) [[pdf](ConqueringCodeReview-MadisonPHP.pdf)]|Madison PHP Conference / _2015-11-14_|[Joind.in](https://joind.in/talk/view/16017)
 [Conquering Uncomfortable Code Reviews](ConqueringCodeReview-ChiPUG.pptx) [[pdf](ConqueringCodeReview-ChiPUG.pdf)]|Chicago PHP User Group / _2015-10-19_|[Meetup](http://www.meetup.com/Chicago-PHP-User-Group/events/224884629/)
