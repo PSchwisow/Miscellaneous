@@ -8,7 +8,7 @@ _in reverse chronological order_
 
 Title|Location / _Date_|Links
 -----|-----------------|-----
-[Reconsidering Remote](ReconsideringRemote-ThunderPlains169.pptx) [[4:3](ReconsideringRemote-ThunderPlains43.pdf)] [[pdf](ReconsideringRemote-ThunderPlains169.pdf)]|ThunderPlains Conference / _2017-11-03_|-
+[Reconsidering Remote](ReconsideringRemote-ThunderPlains169.pptx) [[4:3](ReconsideringRemote-ThunderPlains43.pdf)] [[pdf](ReconsideringRemote-ThunderPlains169.pdf)]|ThunderPlains Conference / _2017-11-03_|[YouTube](https://youtu.be/Frd6MmZ4FbI)
 [10 Things You Didn’t Know You Could Do With Composer](10ThingsComposer-MadisonPHP.pptx) [[pdf](10ThingsComposer-MadisonPHP.pdf)]|Madison PHP Conference / _2017-09-23_|[Joind.in](https://joind.in/talk/dbefb)
 [DO ALL THE THINGS!!!](DoAllTheThings-ZendCon.pptx) [[pdf](DoAllTheThings-ZendCon.pdf)]|ZendCon / _2016-10-20_|[Joind.in](https://joind.in/talk/daecd)
 [10 Things You Didn’t Know You Could Do With Composer](10ThingsComposer-ZendCon.pptx) [[pdf](10ThingsComposer-ZendCon.pdf)]|ZendCon / _2016-10-19_|[Joind.in](https://joind.in/talk/fde58)
