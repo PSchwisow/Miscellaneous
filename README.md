@@ -8,6 +8,7 @@ _in reverse chronological order_
 
 Title|Location / _Date_|Links
 -----|-----------------|-----
+[Achieving High-Quality Code Standards](CodeStandards-MidwestPHP.pptx) [[pdf](CodeStandards-MidwestPHP.pdf)]|Midwest PHP / _2021-04-23_|
 [10 Things You Didn’t Know You Could Do With Composer](10ThingsComposer-CascadiaPHP.pptx) [[pdf](10ThingsComposer-CascadiaPHP.pdf)]|Cascadia PHP Conference / _2018-09-14_|[Joind.in](https://joind.in/talk/83068)
 [Reconsidering Remote](ReconsideringRemote-ThunderPlains169.pptx) [[4:3](ReconsideringRemote-ThunderPlains43.pdf)] [[pdf](ReconsideringRemote-ThunderPlains169.pdf)]|ThunderPlains Conference / _2017-11-03_|[YouTube](https://youtu.be/Frd6MmZ4FbI)
 [10 Things You Didn’t Know You Could Do With Composer](10ThingsComposer-MadisonPHP.pptx) [[pdf](10ThingsComposer-MadisonPHP.pdf)]|Madison PHP Conference / _2017-09-23_|[Joind.in](https://joind.in/talk/dbefb)
